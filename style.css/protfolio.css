@@ -27,9 +27,9 @@
 
 /* header and navigation bar*/
 nav {
+    padding: 50px 200px;
     display: flex;
     justify-content: space-between;
-    padding: 50px 200px;
 }
 
 .nav-title {
